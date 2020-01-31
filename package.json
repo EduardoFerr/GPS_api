@@ -1,0 +1,30 @@
+{
+  "name": "api-gps",
+  "version": "1.0.0",
+  "description": "Aplicação rest para GPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GPS",
+    "SUGAR",
+    "sugar",
+    "daddy",
+    "sugar",
+    "daddy",
+    "sugar",
+    "baby",
+    "BABY",
+    "DADDY",
+    "acompanhante",
+    "encontros",
+    "massagem"
+  ],
+  "author": "Eduardo de MF",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}
